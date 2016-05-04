@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pedazoAcordeon">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text="@string/acordeon"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/acordeon"/>
+        <TextView
+            style = "@style/textViewStyle.Content"
+            android:text="@string/acordeon_text"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/acordeon"
+            android:text="@string/Buscar"
+            android:layout_gravity="center"
+            android:onClick="mapas"/>
+    </LinearLayout>
+
+</FrameLayout>

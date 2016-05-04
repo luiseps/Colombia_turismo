@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Valledupar Tourism</string>
+    <string name="titulo">Valledupar</string>
+    <string name="intro"> Capital of the department of Cesar. This consists of 25 townships and 102 villages</string>
+    <string name="intro2">It is located northeast of the Colombian Caribbean coast, along the Guatapurí River in the valley of the Cesar river formed by the Sierra Nevada de Santa Marta to the west and east the mountains of Perija.</string>
+    <string name="intro3"> He is the head of the homonymous municipality, which covers an area of 4493 km2, 443,414 inhabitants and with his metropolitan area gathers 662,941</string>
+    <string name="title_activity_hoteles">Hotels</string>
+
+
+
+
+
+    //menús
+    <string name="hoteles">Hotels</string>
+    <string name="acerca">About</string>
+    <string name="bares">Bars</string>
+    <string name="sitios">Tourism Sites</string>
+    <string name="demografia">Demography</string>
+    <string name="principal">Main</string>
+
+    //Acerca de
+
+    <string name="desarrollador">Luis Eduardo Perez Santos</string>
+    <string name="universidad">University of Antioquia</string>
+    <string name="fecha">April/2016</string>
+    <string name="version">Version 1.0</string>
+
+    //Hoteles
+
+    <string name="sonesta">SONESTA Hotel</string>
+    <string name="sonesta_text">Diagonal 10 No. 6N-15 Valledupar, Colombia
+         5748686</string>
+    <string name="sicarare">SICARARE Hotel</string>
+    <string name="sicarare_text"> Carrera 9 # 16 -04 Valledupar - Colombia \ n \ rPBX: 584 9283-574 4343</string>
+    <string name="hilton">HAMPTON BY HILTON VALLEDUPAR</string>
+    <string name="hilton_text"> Calle 30 # 6-133, Valledupar, Colombia TEL: + 57-5-5898555</string>
+
+
+    //Demografia
+
+    <string name="poblacion">Population Data</string>
+    <string name="poblacion_text">In 2013, the municipality of Valledupar has a population, according to official projections DANE, 3 433 242 inhabitants, of whom 368,674 live in the village, the rest, about 64,327 are distributed among the 25 districts that make up the municipality.</string>
+    <string name="poblacion2">Distribution</string>
+    <string name="poblacion2_text">Of the total population, 52.1 are women, 12.2 calls itself raizal, black, palenquero, black, or African American. 88.3 of over 5 years literate, the enrollment rate between 5 and 18 years of age is 80. </string>
+
+    //Bares
+    <string name="ksa">The Ksa Club</string>
+    <string name="cantores">Tierra de Cantores</string>
+    <string name="kankurua">KANKURUA</string>
+    <string name="kankurua_text">Cra. 7 No. 16A - 30 Valledupar</string>
+    <string name="ksa_text">Cra. 9 # 7B - 11 Valledupar</string>
+    <string name="cantores_text">Cra. 9 # 7B - 16, San Carlos | Local 2, Valledupar, Colombia</string>
+
+    //Sitios
+    <string name="parque">Leyenda Vallenata park</string>
+    <string name="hurtado">Guatapuri River</string>
+    <string name="alfonso">Alfonso Lopez Plaza</string>
+    <string name="acordeon">The piece of Acordeon</string>
+    <string name="parque_text">Is where multiple cultural events, the most prominent is the festival of the vallenato legend.</string>
+    <string name="hurtado_text">He was born in the Sierra Nevada of Santa Marta, it is a popular place for tourists and bathers</string>
+    <string name="alfonso_text">It is the place where ancient festival of the vallenato legend is to serves as a stage for cultural events.</string>
+    <string name="acordeon_text">Monument to the vallenato culture of the region, one of the most visited places by tourists.</string>
+
+    <string name="Buscar">Search in Map</string>
+</resources>

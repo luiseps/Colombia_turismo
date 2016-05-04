@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.luiseps.colombia_turismo.inicio">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text="@string/titulo"/>
+
+        <TextView
+            style = "@style/textViewStyle.Content"
+            android:text="@string/intro"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/valledupar"/>
+        <TextView
+            style = "@style/textViewStyle.Content"
+            android:text="@string/intro2"/>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Turismo Valledupar</string>
+    <string name="titulo">Valledupar</string>
+    <string name="intro"> Capital del departamento del Cesar. Esta conformado por 25 corregimientos y 102 veredas.</string>
+    <string name="intro2"> Está ubicada al nororiente de la Costa Caribe colombiana, a orillas del río Guatapurí, en el valle del río Cesar formado por la Sierra Nevada de Santa Marta al Oeste y la serranía del Perijá al Este.</string>
+    <string name="intro3">  Es la cabecera del municipio homónimo, el cual tiene una extensión de 4493 km2, 443 41 habitantes y junto a su área metropolitana reúne 662 941</string>
+    <string name="title_activity_hoteles">Hoteles</string>
+
+
+    //menús
+    <string name="hoteles">Hoteles</string>
+    <string name="acerca">Acerca de</string>
+    <string name="bares">Bares</string>
+    <string name="sitios">Sitios Turisticos</string>
+    <string name="demografia">Demografia</string>
+    <string name="principal">Principal</string>
+
+    //Acerca de
+
+    <string name="desarrollador">Luis Eduardo Perez Santos</string>
+    <string name="universidad">Universidad de Antioquia</string>
+    <string name="fecha">Abril/2016</string>
+    <string name="version">Version 1.0</string>
+
+    //Hoteles
+
+    <string name="sonesta">Hotel SONESTA</string>
+    <string name="sonesta_text">Diagonal 10 # 6N-15 \n Valledupar, Colombia \n   5748686</string>
+    <string name="sicarare">Hotel SICARARE</string>
+    <string name="sicarare_text">Carrera 9 # 16 -04 \n Valledupar - Colombia PBX : 584 9283 - 574 4343
+    </string>
+    <string name="hilton">HAMPTON BY HILTON VALLEDUPAR</string>
+    <string name="hilton_text"> Calle 30 # 6 a 133, Valledupar, Colombia TEL: +57-5-5898555</string>
+
+
+    //Demografia
+
+    <string name="poblacion">Datos de la poblacion</string>
+    <string name="poblacion_text">En 2013, el municipio de Valledupar tiene una población, según proyecciones oficiales del DANE,3 de 433 242 habitantes, de los cuales 368 674 viven en el casco urbano, el resto, unos 64 327 se reparten entre los 25 corregimientos que conforman el Municipio.</string>
+    <string name="poblacion2">Distribucion</string>
+    <string name="poblacion2_text">Del total de la población, el 52.1 son mujeres, el 12.2 se autodenomina raizal, negro, palenquero, mulato o afroamericano. El 88.3 de los mayores de 5 años sabe leer y escribir, la tasa de escolaridad entre los 5 y 18 años de edad es del 80.</string>
+
+    //Bares
+    <string name="ksa">La Ksa Club</string>
+    <string name="cantores">Tierra de Cantores</string>
+    <string name="kankurua">KANKURUA</string>
+    <string name="kankurua_text">Cra. 7 No. 16A - 30 Valledupar</string>
+    <string name="ksa_text">Carrera 9 # 7B- 11 Valledupar</string>
+    <string name="cantores_text">Cra. 9 # 7B-16, San Carlos | Local 2, Valledupar, Colombia</string>
+
+    //Sitios
+    <string name="parque">Parque de la Leyenda Vallenata</string>
+    <string name="hurtado">Rio Guatapuri</string>
+    <string name="alfonso">Plaza Alfonso Lopez</string>
+    <string name="acordeon">El Pedazo de Acordeon</string>
+    <string name="parque_text">Es el lugar donde se realizan multiples eventos culturales,  el mas destacado es el festival de la leyenda vallenata.</string>
+    <string name="hurtado_text">Nace en la sierra nevada de Santa Marta, es un lugar muy frecuentado por turistas y bañistas.</string>
+    <string name="alfonso_text">Es el lugar donde antiguamente se hacia el festibal de la leyenda vallenata, sirve como escenario para eventos culturales.</string>
+    <string name="acordeon_text">Monumento a la cultura vallenata de la región, uno de los lugares mas visitados por los turistas.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //otros
+
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Buscar">Buscar en Mapa</string>
+
+
+</resources>

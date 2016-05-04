@@ -1,0 +1,31 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.luiseps.colombia_turismo.BarKakurua">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        style = "@style/linearLayoutStyle">
+        <TextView
+            style = "@style/textViewStyle.Title"
+            android:text="@string/kankurua"/>
+        <ImageView
+            style = "@style/imageViewStyle"
+            android:src="@drawable/kankurua"/>
+        <TextView
+            style = "@style/textViewStyle.Content"
+            android:text="@string/kankurua_text"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:id="@+id/kankurua"
+                android:text="@string/Buscar"
+                android:onClick="mapas"/>
+
+          </LinearLayout>
+
+
+
+</FrameLayout>
